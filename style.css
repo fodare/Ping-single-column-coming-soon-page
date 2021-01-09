@@ -30,6 +30,11 @@ body {
 .subscribe {
    font-size: 1.5rem;
 }
+#error_message {
+   font-weight: lighter;
+   text-align: center;
+   padding-top: 4px;
+}
 
 /* User subsricption area */
 .user_email {
